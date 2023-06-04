@@ -1,5 +1,7 @@
 # PolyClipper: An Intuitive Polygon Partitioning Library with Interactive Visualization
 
+https://docs.google.com/presentation/d/1Qfur7BFP12TPTW70Bg35GvjRr3THzaD6n7usSoKKOQk/edit?usp=sharing
+
 ## Basic Information
 
 * Project Name: PolyClipper
